@@ -1,0 +1,2027 @@
+{
+  "total": {
+    "value": 953,
+    "relation": "eq"
+  },
+  "transactions": [
+    {
+      "id": "d762982a7f7937002f1802558d1a2ee4",
+      "accessionNo": "0001767094-25-000005",
+      "filedAt": "2025-08-12T18:30:19-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-08-08",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1767094",
+        "name": "O'BRIEN DEIRDRE",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "Senior Vice President",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-08-08",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 34821,
+              "pricePerShare": 223.2,
+              "pricePerShareFootnoteId": [
+                "F2"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 136687
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 27, 2024."
+        },
+        {
+          "id": "F2",
+          "text": "This transaction was executed in multiple trades at prices ranging from $223.19 to $223.24; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Deirdre O'Brien",
+      "ownerSignatureNameDate": "2025-08-12"
+    },
+    {
+      "id": "063797163fb1a75baecb2ce9061795dd",
+      "accessionNo": "0000320193-25-000059",
+      "filedAt": "2025-05-14T18:30:28-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-05-12",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1631982",
+        "name": "KONDO CHRIS",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "Principal Accounting Officer",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "transactionDate": "2025-05-12",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 4486,
+              "pricePerShare": 208.1933,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 15533
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Chris Kondo",
+      "ownerSignatureNameDate": "2025-05-14"
+    },
+    {
+      "id": "b3ee4fc2779db347332edc5df2f5f0c9",
+      "accessionNo": "0000320193-25-000051",
+      "filedAt": "2025-04-25T18:30:14-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-04-23",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "2050912",
+        "name": "Parekh Kevan",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "Senior Vice President, CFO",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-23",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 4570,
+              "pricePerShare": 206,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 4569
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 26, 2024."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Kevan Parekh",
+      "ownerSignatureNameDate": "2025-04-25"
+    },
+    {
+      "id": "3b8674ccbdc06aa8601d628843bb8780",
+      "accessionNo": "0000320193-25-000049",
+      "filedAt": "2025-04-17T18:32:02-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-04-15",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "2050912",
+        "name": "Parekh Kevan",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "Senior Vice President, CFO",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 16458,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "A"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 16458
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F2"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "F",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 7319,
+              "pricePerShare": 202.14,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 9139
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "derivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F3"
+            ],
+            "expirationDateFootnoteId": [
+              "F3"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 5530
+            },
+            "amounts": {
+              "shares": 5530,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 5530
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F4"
+            ],
+            "expirationDateFootnoteId": [
+              "F4"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 5817
+            },
+            "amounts": {
+              "shares": 5817,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 17449
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F5"
+            ],
+            "expirationDateFootnoteId": [
+              "F5"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 5111
+            },
+            "amounts": {
+              "shares": 5111,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 25553
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Each restricted stock unit represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of restricted stock units in shares of common stock on their scheduled vesting date."
+        },
+        {
+          "id": "F2",
+          "text": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of restricted stock units. No shares were sold."
+        },
+        {
+          "id": "F3",
+          "text": "This award was granted on September 26, 2021. 12.5% of the award vested on April 15, 2022 and the remaining restricted stock units vest 12.5% in semi-annual installments over the four-year period ending October 15, 2025, subject to the terms and conditions of the underlying award agreement."
+        },
+        {
+          "id": "F4",
+          "text": "This award was granted on September 25, 2022. 12.5% of the award vested on April 15, 2023 and the remaining restricted stock units vest 12.5% in semi-annual installments over the four-year period ending October 15, 2026, subject to the terms and conditions of the underlying award agreement"
+        },
+        {
+          "id": "F5",
+          "text": "This award was granted on October 1, 2023. 12.5% of the award vested on April 15, 2024 and the remaining restricted stock units vest 12.5% in semi-annual installments over the four-year period ending October 15, 2027, subject to the terms and conditions of the underlying award agreement."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Kevan Parekh",
+      "ownerSignatureNameDate": "2025-04-17"
+    },
+    {
+      "id": "b56dfd1f1a5c1a88dccf56c184dc18f3",
+      "accessionNo": "0000320193-25-000048",
+      "filedAt": "2025-04-17T18:31:13-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-04-15",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1631982",
+        "name": "KONDO CHRIS",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "Principal Accounting Officer",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 7373,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "A"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 22906,
+              "sharesOwnedFollowingTransactionFootnoteId": [
+                "F2"
+              ]
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F3"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "F",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 2887,
+              "pricePerShare": 202.14,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 20019
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "derivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F4"
+            ],
+            "expirationDateFootnoteId": [
+              "F4"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 1914
+            },
+            "amounts": {
+              "shares": 1914,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 1914
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F5"
+            ],
+            "expirationDateFootnoteId": [
+              "F5"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 2078
+            },
+            "amounts": {
+              "shares": 2078,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 6232
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F6"
+            ],
+            "expirationDateFootnoteId": [
+              "F6"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 1899
+            },
+            "amounts": {
+              "shares": 1899,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 9491
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-15",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F7"
+            ],
+            "expirationDateFootnoteId": [
+              "F7"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 1482
+            },
+            "amounts": {
+              "shares": 1482,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 10372
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Each restricted stock unit represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of restricted stock units in shares of common stock on their scheduled vesting date."
+        },
+        {
+          "id": "F2",
+          "text": "The number of securities reported reflects the acquisition on January 31, 2025 of 114 shares of Apple Inc.'s common stock pursuant to the Apple Inc. Employee Stock Purchase Plan (\"ESPP\") for the ESPP purchase period of August 1, 2024 through January 31, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of restricted stock units. No shares were sold."
+        },
+        {
+          "id": "F4",
+          "text": "This award was granted on September 26, 2021. 12.5% of the award vested on April 15, 2022 and the remaining restricted stock units vest 12.5% in semi-annual installments over the four-year period ending October 15, 2025, subject to the terms and conditions of the underlying award agreement."
+        },
+        {
+          "id": "F5",
+          "text": "This award was granted on September 25, 2022. 12.5% of the award vested on April 15, 2023 and the remaining restricted stock units vest 12.5% in semi-annual installments over the four-year period ending October 15, 2026, subject to the terms and conditions of the underlying award agreement"
+        },
+        {
+          "id": "F6",
+          "text": "This award was granted on October 1, 2023. 12.5% of the award vested on April 15, 2024 and the remaining restricted stock units vest 12.5% in semi-annual installments over the four-year period ending October 15, 2027, subject to the terms and conditions of the underlying award agreement."
+        },
+        {
+          "id": "F7",
+          "text": "This award was granted on September 29, 2024. 12.5% of the award vested on April 15, 2025 and the remaining restricted stock units vest 12.5% in semi-annual installments over the four-year period ending October 15, 2028, subject to the terms and conditions of the underlying award agreement."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Chris Kondo",
+      "ownerSignatureNameDate": "2025-04-17"
+    },
+    {
+      "id": "628c1f2b1dde4f19143d6d7afbddc8d0",
+      "accessionNo": "0000320193-25-000045",
+      "filedAt": "2025-04-03T18:33:37-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-04-01",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1496686",
+        "name": "WILLIAMS JEFFREY E",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "COO",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 74535,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "A"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 464594,
+              "sharesOwnedFollowingTransactionFootnoteId": [
+                "F2"
+              ]
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F4"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "F",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 39042,
+              "pricePerShare": 223.19,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 425552
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F5"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 15721,
+              "pricePerShare": 223.48,
+              "pricePerShareFootnoteId": [
+                "F6"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 409831
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F5"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 17292,
+              "pricePerShare": 224.34,
+              "pricePerShareFootnoteId": [
+                "F7"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 392539
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F5"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 2480,
+              "pricePerShare": 225.03,
+              "pricePerShareFootnoteId": [
+                "F8"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 390059
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          }
+        ]
+      },
+      "derivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F9"
+            ],
+            "expirationDateFootnoteId": [
+              "F9"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 29688
+            },
+            "amounts": {
+              "shares": 29688,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 0
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F10"
+            ],
+            "expirationDateFootnoteId": [
+              "F10"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 22688
+            },
+            "amounts": {
+              "shares": 22688,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 22688
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F11"
+            ],
+            "expirationDateFootnoteId": [
+              "F11"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 22159
+            },
+            "amounts": {
+              "shares": 22159,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 44318
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Each restricted stock unit (\"RSU\") represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of RSUs in shares of common stock on their scheduled vesting date."
+        },
+        {
+          "id": "F2",
+          "text": "The number of securities reported reflects the acquisition on January 31, 2025 of 115 shares of Apple Inc.'s common stock pursuant to the Apple Inc. Employee Stock Purchase Plan (\"ESPP\") for the ESPP purchase period of August 1, 2024 through January 31, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "The shares are held through Mr. Williams' living trust."
+        },
+        {
+          "id": "F4",
+          "text": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of RSUs."
+        },
+        {
+          "id": "F5",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 29, 2024."
+        },
+        {
+          "id": "F6",
+          "text": "This transaction was executed in multiple trades at prices ranging from $222.96 to $223.95; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F7",
+          "text": "This transaction was executed in multiple trades at prices ranging from $223.96 to $224.90; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F8",
+          "text": "This transaction was executed in multiple trades at prices ranging from $224.955 to $225.17; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F9",
+          "text": "This award was granted on September 27, 2020. 29,688 RSUs subject to the award vested on each of April 1, 2023, April 1, 2024 and April 1, 2025."
+        },
+        {
+          "id": "F10",
+          "text": "This award was granted on September 26, 2021. 22,689 RSUs subject to the award vested on April 1, 2024 and 22,688 RSUs vested on April 1, 2025. 22,688 RSUs are scheduled to vest on April 1, 2026, subject to the terms and conditions of the underlying award agreement."
+        },
+        {
+          "id": "F11",
+          "text": "This award was granted on September 25, 2022. 22,159 RSUs subject to the award vested on April 1, 2025 and 22,159 RSUs are scheduled to vest on each of April 1, 2026 and April 1, 2027, subject to the terms and conditions of the underlying award agreement."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Jeffrey E. Williams",
+      "ownerSignatureNameDate": "2025-04-03"
+    },
+    {
+      "id": "ef90328c66ea77f6f412322f6c706829",
+      "accessionNo": "0000320193-25-000044",
+      "filedAt": "2025-04-03T18:32:58-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-04-01",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1767094",
+        "name": "O'BRIEN DEIRDRE",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "Senior Vice President",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 74535,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "A"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 211222,
+              "sharesOwnedFollowingTransactionFootnoteId": [
+                "F2"
+              ]
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F3"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "F",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 39714,
+              "pricePerShare": 223.19,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 171508
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "derivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F4"
+            ],
+            "expirationDateFootnoteId": [
+              "F4"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 29688
+            },
+            "amounts": {
+              "shares": 29688,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 0
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F5"
+            ],
+            "expirationDateFootnoteId": [
+              "F5"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 22688
+            },
+            "amounts": {
+              "shares": 22688,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 22688
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F6"
+            ],
+            "expirationDateFootnoteId": [
+              "F6"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 22159
+            },
+            "amounts": {
+              "shares": 22159,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 44318
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Each restricted stock unit (\"RSU\") represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of RSUs in shares of common stock on their scheduled vesting date."
+        },
+        {
+          "id": "F2",
+          "text": "The number of securities reported reflects the acquisition on January 31, 2025 of 115 shares of Apple Inc.'s common stock pursuant to the Apple Inc. Employee Stock Purchase Plan (\"ESPP\") for the ESPP purchase period of August 1, 2024 through January 31, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of RSUs. No shares were sold."
+        },
+        {
+          "id": "F4",
+          "text": "This award was granted on September 27, 2020. 29,688 RSUs subject to the award vested on each of April 1, 2023, April 1, 2024 and April 1, 2025."
+        },
+        {
+          "id": "F5",
+          "text": "This award was granted on September 26, 2021. 22,689 RSUs subject to the award vested on April 1, 2024 and 22,688 RSUs vested on April 1, 2025. 22,688 RSUs are scheduled to vest on April 1, 2026, subject to the terms and conditions of the underlying award agreement."
+        },
+        {
+          "id": "F6",
+          "text": "This award was granted on September 25, 2022. 22,159 RSUs subject to the award vested on April 1, 2025 and 22,159 RSUs are scheduled to vest on each of April 1, 2026 and April 1, 2027, subject to the terms and conditions of the underlying award agreement."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Deirdre O'Brien",
+      "ownerSignatureNameDate": "2025-04-03"
+    },
+    {
+      "id": "c4a3d7033b06981c95e1d59a4d6cadd2",
+      "accessionNo": "0000320193-25-000043",
+      "filedAt": "2025-04-03T18:32:18-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-04-01",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1214156",
+        "name": "COOK TIMOTHY D",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": true,
+          "isOfficer": true,
+          "officerTitle": "Chief Executive Officer",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 218568,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "A"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 3498863,
+              "sharesOwnedFollowingTransactionFootnoteId": [
+                "F2"
+              ]
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F4"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "F",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 110432,
+              "pricePerShare": 223.19,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 3388431
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F5"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 6695,
+              "pricePerShare": 221.77,
+              "pricePerShareFootnoteId": [
+                "F6"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 3381736
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F5"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 28774,
+              "pricePerShare": 222.99,
+              "pricePerShareFootnoteId": [
+                "F7"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 3352962
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F5"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 62077,
+              "pricePerShare": 223.97,
+              "pricePerShareFootnoteId": [
+                "F8"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 3290885
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F5"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 10590,
+              "pricePerShare": 224.76,
+              "pricePerShareFootnoteId": [
+                "F9"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 3280295
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D",
+              "directOrIndirectOwnershipFootnoteId": [
+                "F3"
+              ]
+            }
+          }
+        ]
+      },
+      "derivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F10"
+            ],
+            "expirationDateFootnoteId": [
+              "F10"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 111329
+            },
+            "amounts": {
+              "shares": 111329,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 0
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F11"
+            ],
+            "expirationDateFootnoteId": [
+              "F11"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 85080
+            },
+            "amounts": {
+              "shares": 85080,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 85080
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F12"
+            ],
+            "expirationDateFootnoteId": [
+              "F12"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 22159
+            },
+            "amounts": {
+              "shares": 22159,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 44318
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Each restricted stock unit (\"RSU\") represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of RSUs in shares of common stock on their scheduled vesting date."
+        },
+        {
+          "id": "F2",
+          "text": "The number of securities reported reflects the acquisition on January 31, 2025 of 115 shares of Apple Inc.'s common stock pursuant to the Apple Inc. Employee Stock Purchase Plan (\"ESPP\") for the ESPP purchase period of August 1, 2024 through January 31, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "These shares are held through Mr. Cook's trust."
+        },
+        {
+          "id": "F4",
+          "text": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of RSUs."
+        },
+        {
+          "id": "F5",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 24, 2024."
+        },
+        {
+          "id": "F6",
+          "text": "This transaction was executed in multiple trades at prices ranging from $221.25 to $222.20; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F7",
+          "text": "This transaction was executed in multiple trades at prices ranging from $222.44 to $223.43; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F8",
+          "text": "This transaction was executed in multiple trades at prices ranging from $223.44 to $224.43; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F9",
+          "text": "This transaction was executed in multiple trades at prices ranging from $224.44 to $225.09; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F10",
+          "text": "This award was granted on September 27, 2020. 111,329 RSUs subject to the award settled on each of April 1, 2023, April 1, 2024 and April 1, 2025."
+        },
+        {
+          "id": "F11",
+          "text": "This award was granted on September 26, 2021. 85,081 RSUs subject to the award settled on April 1, 2024 and 85,080 RSUs settled on April 1, 2025. 85,080 RSUs are scheduled to settle on April 1, 2026."
+        },
+        {
+          "id": "F12",
+          "text": "This award was granted on September 25, 2022. 22,159 RSUs subject to the award settled on April 1, 2025 and 22,159 RSUs are scheduled to settle on each of April 1, 2026 and April 1, 2027."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Timothy D. Cook",
+      "ownerSignatureNameDate": "2025-04-03"
+    },
+    {
+      "id": "13e8179bf697b8d5f544111c0aadf4e5",
+      "accessionNo": "0000320193-25-000042",
+      "filedAt": "2025-04-03T18:31:27-04:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-04-01",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1462356",
+        "name": "Adams Katherine L.",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": false,
+          "isOfficer": true,
+          "officerTitle": "SVP, GC and Secretary",
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "nonDerivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Common Stock",
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 74535,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "A"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 253693,
+              "sharesOwnedFollowingTransactionFootnoteId": [
+                "F2"
+              ]
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F3"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "F",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 35713,
+              "pricePerShare": 223.19,
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 217980
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F4"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 1600,
+              "pricePerShare": 221.68,
+              "pricePerShareFootnoteId": [
+                "F5"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 216380
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F4"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 9231,
+              "pricePerShare": 222.87,
+              "pricePerShareFootnoteId": [
+                "F6"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 207149
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F4"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 22343,
+              "pricePerShare": 223.9,
+              "pricePerShareFootnoteId": [
+                "F7"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 184806
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Common Stock",
+            "securityTitleFootnoteId": [
+              "F4"
+            ],
+            "transactionDate": "2025-04-02",
+            "coding": {
+              "formType": "4",
+              "code": "S",
+              "equitySwapInvolved": false
+            },
+            "amounts": {
+              "shares": 5648,
+              "pricePerShare": 224.62,
+              "pricePerShareFootnoteId": [
+                "F8"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 179158
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "derivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F9"
+            ],
+            "expirationDateFootnoteId": [
+              "F9"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 29688
+            },
+            "amounts": {
+              "shares": 29688,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 0
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F10"
+            ],
+            "expirationDateFootnoteId": [
+              "F10"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 22688
+            },
+            "amounts": {
+              "shares": 22688,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 22688
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          },
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "conversionOrExercisePriceFootnoteId": [
+              "F1"
+            ],
+            "transactionDate": "2025-04-01",
+            "coding": {
+              "formType": "4",
+              "code": "M",
+              "equitySwapInvolved": false
+            },
+            "exerciseDateFootnoteId": [
+              "F11"
+            ],
+            "expirationDateFootnoteId": [
+              "F11"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 22159
+            },
+            "amounts": {
+              "shares": 22159,
+              "pricePerShareFootnoteId": [
+                "F1"
+              ],
+              "acquiredDisposedCode": "D"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 44318
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Each restricted stock unit (\"RSU\") represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of RSUs in shares of common stock on their scheduled vesting date."
+        },
+        {
+          "id": "F2",
+          "text": "The number of securities reported reflects the acquisition on January 31, 2025 of 115 shares of Apple Inc.'s common stock pursuant to the Apple Inc. Employee Stock Purchase Plan (\"ESPP\") for the ESPP purchase period of August 1, 2024 through January 31, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of RSUs."
+        },
+        {
+          "id": "F4",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2024."
+        },
+        {
+          "id": "F5",
+          "text": "This transaction was executed in multiple trades at prices ranging from $221.25 to $222.21; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F6",
+          "text": "This transaction was executed in multiple trades at prices ranging from $222.32 to $223.31; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F7",
+          "text": "This transaction was executed in multiple trades at prices ranging from $223.32 to $224.31; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F8",
+          "text": "This transaction was executed in multiple trades at prices ranging from $224.32 to $225.12; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        },
+        {
+          "id": "F9",
+          "text": "This award was granted on September 27, 2020. 29,688 RSUs subject to the award vested on each of April 1, 2023, April 1, 2024 and April 1, 2025."
+        },
+        {
+          "id": "F10",
+          "text": "This award was granted on September 26, 2021. 22,689 RSUs subject to the award vested on April 1, 2024 and 22,688 RSUs vested on April 1, 2025. 22,688 RSUs are scheduled to vest on April 1, 2026, subject to the terms and conditions of the underlying award agreement."
+        },
+        {
+          "id": "F11",
+          "text": "This award was granted on September 25, 2022. 22,159 RSUs subject to the award vested on April 1, 2025 and 22,159 RSUs are scheduled to vest on each of April 1, 2026 and April 1, 2027, subject to the terms and conditions of the underlying award agreement."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Katherine L. Adams",
+      "ownerSignatureNameDate": "2025-04-03"
+    },
+    {
+      "id": "b501741ea9506be2ea40303fdd675f49",
+      "accessionNo": "0000320193-25-000036",
+      "filedAt": "2025-02-27T18:35:41-05:00",
+      "schemaVersion": "X0508",
+      "documentType": "4",
+      "periodOfReport": "2025-02-25",
+      "notSubjectToSection16": false,
+      "issuer": {
+        "cik": "320193",
+        "name": "Apple Inc.",
+        "tradingSymbol": "AAPL"
+      },
+      "reportingOwner": {
+        "cik": "1059235",
+        "name": "WAGNER SUSAN",
+        "address": {
+          "street1": "ONE APPLE PARK WAY",
+          "city": "CUPERTINO",
+          "state": "CA",
+          "zipCode": "95014"
+        },
+        "relationship": {
+          "isDirector": true,
+          "isOfficer": false,
+          "isTenPercentOwner": false,
+          "isOther": false
+        }
+      },
+      "derivativeTable": {
+        "transactions": [
+          {
+            "securityTitle": "Restricted Stock Unit",
+            "securityTitleFootnoteId": [
+              "F1"
+            ],
+            "conversionOrExercisePriceFootnoteId": [
+              "F2"
+            ],
+            "transactionDate": "2025-02-25",
+            "coding": {
+              "formType": "4",
+              "code": "A",
+              "equitySwapInvolved": false
+            },
+            "exerciseDate": "2026-02-01",
+            "exerciseDateFootnoteId": [
+              "F3"
+            ],
+            "expirationDate": "2026-02-01",
+            "expirationDateFootnoteId": [
+              "F3"
+            ],
+            "underlyingSecurity": {
+              "title": "Common Stock",
+              "shares": 1255
+            },
+            "amounts": {
+              "shares": 1255,
+              "pricePerShare": 0,
+              "acquiredDisposedCode": "A"
+            },
+            "postTransactionAmounts": {
+              "sharesOwnedFollowingTransaction": 1255
+            },
+            "ownershipNature": {
+              "directOrIndirectOwnership": "D"
+            }
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Automatic grant pursuant to the Apple Inc. Non-Employee Director Stock Plan."
+        },
+        {
+          "id": "F2",
+          "text": "Each restricted stock unit represents the right to receive, at settlement, one share of common stock."
+        },
+        {
+          "id": "F3",
+          "text": "100% of these restricted stock units are scheduled to vest on February 1, 2026, assuming continued service through the vesting date."
+        }
+      ],
+      "ownerSignatureName": "/s/ Sam Whittington, Attorney-in-Fact for Susan Wagner",
+      "ownerSignatureNameDate": "2025-02-27"
+    }
+  ]
+}
