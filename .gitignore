@@ -3,3 +3,8 @@ bin/*
 lib/*
 lib64/*
 __pycache__/*
+.venv/*
+.pytest_cache/*
+
+**/__pycache__/*
+**/*.egg-info/*
